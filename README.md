@@ -1,6 +1,10 @@
 # Speaker embeddings for Text-independent speaker verification using TensorFlow, with Kaldi
-This is a slightly modified TensorFlow implementation of the model presented by David Snyder in [Deep Neural Network Embeddings for Text-Independent Speaker Verification](http://www.danielpovey.com/files/2017_interspeech_embeddings.pdf). In the paper, this algorithm is a little worse than i-vector. My test show similar output. Also, in my test, shallow network was a very little worse than deep network (This is dependency of DB). <br />
+This is a slightly modified TensorFlow implementation of the model presented by David Snyder in [Deep Neural Network Embeddings for Text-Independent Speaker Verification](http://www.danielpovey.com/files/2017_interspeech_embeddings.pdf).
+
+In the paper, this algorithm is a little worse than i-vector. My test show similar output. Also, in my test, shallow network was a very little worse than deep network (This is dependency of DB). <br />
+
 In this code, there are many hard cording such folder location and some parameter related database. If I have database well-known SR database, I try to it. but I only have private database.<br />
+
 I hope this code helps researcher.
 
 
@@ -52,7 +56,7 @@ Also, use the part of code:
    Maybe, you only run after /local/extract_ivectors.sh --stage 2 each folder.
 
 
-###Authors
+###Authors:
 
 qqueing@gmail.com( or kindsinu@naver.com)
 
