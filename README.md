@@ -9,7 +9,7 @@ I hope this code helps researcher.
 
 
 ## Credits
-If you're using this code please make sure you cite following papers:
+Original paper:
 - Snyder's paper:
 ```
 @unknown{unknown,
