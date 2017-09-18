@@ -54,8 +54,5 @@ Also, use the part of code:
 
 ###Authors
 
+qqueing@gmail.com( or kindsinu@naver.com)
 
-
-Namju Kim (namju.kim@kakaocorp.com) at KakaoBrain Corp.
-
-Kyubyong Park (kbpark@jamonglab.com) at KakaoBrain Corp.
