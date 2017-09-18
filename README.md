@@ -56,7 +56,6 @@ Also, use the part of code:
    Maybe, you only run after /local/extract_ivectors.sh --stage 2 each folder.
 
 
-###Authors:
-
+##Authors
 qqueing@gmail.com( or kindsinu@naver.com)
 
